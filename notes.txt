@@ -1,0 +1,2 @@
+Git staging area helps us select and review changes before committing them.
+
